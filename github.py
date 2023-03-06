@@ -14,7 +14,7 @@ try:
     driver.get("https://example.com")
 
 
-# Do your stuffs here ........         below is pseudo example where url is a url string of any website .
+# Do your stuffs here ........       
 
     driver.close()
     driver.quit()

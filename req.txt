@@ -1,0 +1,2 @@
+selenium==<version_number>
+undetected-chromedriver==<version_number>
